@@ -13,6 +13,8 @@ Changelog
   on `searchResults` returning all brains for empty queries before
   version 4.0a2.
 
+- Add icon for Bootstrap ZMI.
+
 4.0.1 (2017-10-10)
 ------------------
 
